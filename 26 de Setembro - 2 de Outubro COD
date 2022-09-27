@@ -35,4 +35,13 @@
         <calorias>950</calorias>
     </Plato5>
 
+    <Plato6>
+        <nombre>Desayuno americano</nombre>
+        <precio>12,95</precio>
+        <descripcion>Hamburguesa doble y patatas fritas</descripcion>
+        <calorias>2950</calorias>
+    </Plato6>
+
 </menu>
+
+<!-- nuevo plato 6 añadido 1-->
