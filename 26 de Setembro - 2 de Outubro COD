@@ -42,6 +42,14 @@
         <calorias>2950</calorias>
     </Plato6>
 
+    <Plato7>
+        <nombre>Tortilla de patatas</nombre>
+        <precio>4,5</precio>
+        <descripcion>Tortilla de patatas hecha con huevos camperos</descripcion>
+        <calorias>850</calorias>
+    </Plato7>
+
 </menu>
 
 <!-- nuevo plato 6 añadido 1-->
+<!-- añadimos plato 7 en la version v02-->
